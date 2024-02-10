@@ -6,7 +6,7 @@ Bienvenue dans ImagEdit, une application de retouche d'image. Cette documentatio
 
 ## Présentation de l'IHM
 
-![FenetreImagEdit.png](FenetreImagEdit.png)
+![FenetreImagEdit.png](FenetreImagEdit.PNG)
 
 
 ### Fenêtre principale
